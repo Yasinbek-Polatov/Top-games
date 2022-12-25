@@ -1,0 +1,28 @@
+body{
+    background-color:#19DAA0 ;
+}
+
+.prom{
+    background-color: white;
+    margin: 100px 100px 100px 100px;
+    text-align: center;
+
+}
+
+.inv{
+    font-weight: 300;
+    font-family:Nunito ;
+    font-size: 24px;
+    color: #686666;
+}
+
+h1{
+   font-weight: 400;
+   font-family: 48px;
+   font-size:60px;
+   color:#E95962;
+}
+
+.armeni{
+list-style-type: mongolian;
+}
